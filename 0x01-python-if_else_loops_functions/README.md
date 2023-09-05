@@ -1,1 +1,1 @@
-# 0x01-python-if_else_loops_functions
+# All tasks to learn conditionals and loops in python
